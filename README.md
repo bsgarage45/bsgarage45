@@ -11,3 +11,6 @@ You can click the Preview link to take a look at your changes.
 - ad: .NET Core SDK Kurulumu
   kullanır: eylemler/kurulum-dotnet@v2.0.0
 
+.gitpod.Dockerfile
+.gitpod.yml
+bcf7e96
